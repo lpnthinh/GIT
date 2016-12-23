@@ -1,14 +1,15 @@
-﻿using System;
+﻿using QuanLyDoanVien.DuLieu;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace QuanLyDoanVien.DuLieu
+namespace QuanLyDoanVien
 {
-    public class clsDuLieu
+    public class clsHeThong
     {
-        public static NguoiDung NguoiDungDangNhap
+        public static ChucNang ChucNangDangChon
         {
             get;
             set;

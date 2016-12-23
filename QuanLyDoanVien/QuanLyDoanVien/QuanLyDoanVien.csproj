@@ -34,13 +34,26 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DevExpress.BonusSkins.v16.2" />
+    <Reference Include="DevExpress.Charts.v16.2.Core, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.Data.v16.2" />
+    <Reference Include="DevExpress.Office.v16.2.Core, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v16.2.Core, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.Printing.v16.2.Core" />
+    <Reference Include="DevExpress.RichEdit.v16.2.Core, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.Utils.v16.2" />
+    <Reference Include="DevExpress.Utils.v16.2.UI, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraBars.v16.2" />
     <Reference Include="DevExpress.Sparkline.v16.2.Core" />
+    <Reference Include="DevExpress.XtraCharts.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraEditors.v16.2" />
+    <Reference Include="DevExpress.XtraGauges.v16.2.Core, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v16.2.Extensions, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -52,14 +65,65 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="clsHeThong.cs" />
     <Compile Include="FrmTrangChu.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmTrangChu.Designer.cs">
       <DependentUpon>FrmTrangChu.cs</DependentUpon>
     </Compile>
+    <Compile Include="HeThong\FrmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThong\FrmDangNhap.Designer.cs">
+      <DependentUpon>FrmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeThong\FrmKetNoiDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThong\FrmKetNoiDB.Designer.cs">
+      <DependentUpon>FrmKetNoiDB.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TienIch\AppConfig.cs" />
+    <Compile Include="TienIch\ConnectionHelper.cs" />
+    <Compile Include="TienIch\Constant.cs" />
+    <Compile Include="TienIch\FrmBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TienIch\FrmBase.Designer.cs">
+      <DependentUpon>FrmBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TienIch\FrmBaseDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TienIch\FrmBaseDialog.Designer.cs">
+      <DependentUpon>FrmBaseDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TienIch\FrmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TienIch\FrmSplash.Designer.cs">
+      <DependentUpon>FrmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TienIch\FrmWait.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TienIch\FrmWait.Designer.cs">
+      <DependentUpon>FrmWait.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TienIch\GridControlCustom.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TienIch\MsgBox.cs" />
+    <Compile Include="TienIch\RptBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TienIch\RptBase.Designer.cs">
+      <DependentUpon>RptBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TienIch\WriteLog.cs" />
     <EmbeddedResource Include="FrmTrangChu.resx">
       <DependentUpon>FrmTrangChu.cs</DependentUpon>
     </EmbeddedResource>
@@ -73,6 +137,21 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="TienIch\FrmBase.resx">
+      <DependentUpon>FrmBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TienIch\FrmBaseDialog.resx">
+      <DependentUpon>FrmBaseDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TienIch\FrmSplash.resx">
+      <DependentUpon>FrmSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TienIch\FrmWait.resx">
+      <DependentUpon>FrmWait.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TienIch\RptBase.resx">
+      <DependentUpon>RptBase.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -88,6 +167,12 @@
       <Project>{573bb4a7-351a-4635-a405-93d76aff4c45}</Project>
       <Name>QuanLyDoanVien.DuLieu</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DanhMuc\" />
+    <Folder Include="HoTro\" />
+    <Folder Include="NghiepVu\" />
+    <Folder Include="TaiNguyen\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

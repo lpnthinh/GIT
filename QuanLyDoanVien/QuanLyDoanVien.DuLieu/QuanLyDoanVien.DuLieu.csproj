@@ -30,6 +30,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DevExpress.Data.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -41,7 +43,37 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="clsDuLieu.cs" />
+    <Compile Include="DataCode\BaseObject.cs" />
+    <Compile Include="DataCode\BaseObject.Designer.cs">
+      <DependentUpon>BaseObject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\ChucNang.cs" />
+    <Compile Include="DataCode\ChucNang.Designer.cs">
+      <DependentUpon>ChucNang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\NguoiDung.cs" />
+    <Compile Include="DataCode\NguoiDung.Designer.cs">
+      <DependentUpon>NguoiDung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\NhomNguoiDung.cs" />
+    <Compile Include="DataCode\NhomNguoiDung.Designer.cs">
+      <DependentUpon>NhomNguoiDung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\Param.cs" />
+    <Compile Include="DataCode\Param.Designer.cs">
+      <DependentUpon>Param.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\PhanQuyen.cs" />
+    <Compile Include="DataCode\PhanQuyen.Designer.cs">
+      <DependentUpon>PhanQuyen.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Data.xpo" />
+    <None Include="Data.xpo.diagram">
+      <DependentUpon>Data.xpo</DependentUpon>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
