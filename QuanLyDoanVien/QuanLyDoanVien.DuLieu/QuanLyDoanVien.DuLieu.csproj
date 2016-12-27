@@ -51,13 +51,45 @@
     <Compile Include="DataCode\ChucNang.Designer.cs">
       <DependentUpon>ChucNang.cs</DependentUpon>
     </Compile>
+    <Compile Include="DataCode\ChucVuDang.cs" />
+    <Compile Include="DataCode\ChucVuDang.Designer.cs">
+      <DependentUpon>ChucVuDang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\ChucVuDoan.cs" />
+    <Compile Include="DataCode\ChucVuDoan.Designer.cs">
+      <DependentUpon>ChucVuDoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\DanToc.cs" />
+    <Compile Include="DataCode\DanToc.Designer.cs">
+      <DependentUpon>DanToc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\DonVi.cs" />
+    <Compile Include="DataCode\DonVi.Designer.cs">
+      <DependentUpon>DonVi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\HanhChinh.cs" />
+    <Compile Include="DataCode\HanhChinh.Designer.cs">
+      <DependentUpon>HanhChinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\NgoaiNgu.cs" />
+    <Compile Include="DataCode\NgoaiNgu.Designer.cs">
+      <DependentUpon>NgoaiNgu.cs</DependentUpon>
+    </Compile>
     <Compile Include="DataCode\NguoiDung.cs" />
     <Compile Include="DataCode\NguoiDung.Designer.cs">
       <DependentUpon>NguoiDung.cs</DependentUpon>
     </Compile>
+    <Compile Include="DataCode\NhanSu.cs" />
+    <Compile Include="DataCode\NhanSu.Designer.cs">
+      <DependentUpon>NhanSu.cs</DependentUpon>
+    </Compile>
     <Compile Include="DataCode\NhomNguoiDung.cs" />
     <Compile Include="DataCode\NhomNguoiDung.Designer.cs">
       <DependentUpon>NhomNguoiDung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\NienKhoa.cs" />
+    <Compile Include="DataCode\NienKhoa.Designer.cs">
+      <DependentUpon>NienKhoa.cs</DependentUpon>
     </Compile>
     <Compile Include="DataCode\Param.cs" />
     <Compile Include="DataCode\Param.Designer.cs">
@@ -66,6 +98,30 @@
     <Compile Include="DataCode\PhanQuyen.cs" />
     <Compile Include="DataCode\PhanQuyen.Designer.cs">
       <DependentUpon>PhanQuyen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\TonGiao.cs" />
+    <Compile Include="DataCode\TonGiao.Designer.cs">
+      <DependentUpon>TonGiao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\TrinhDoChuyenMon.cs" />
+    <Compile Include="DataCode\TrinhDoChuyenMon.Designer.cs">
+      <DependentUpon>TrinhDoChuyenMon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\TrinhDoHocVan.cs" />
+    <Compile Include="DataCode\TrinhDoHocVan.Designer.cs">
+      <DependentUpon>TrinhDoHocVan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\TrinhDoLyLuanChinhTri.cs" />
+    <Compile Include="DataCode\TrinhDoLyLuanChinhTri.Designer.cs">
+      <DependentUpon>TrinhDoLyLuanChinhTri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\TrinhDoNgoaiNgu.cs" />
+    <Compile Include="DataCode\TrinhDoNgoaiNgu.Designer.cs">
+      <DependentUpon>TrinhDoNgoaiNgu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\TrinhDoTinHoc.cs" />
+    <Compile Include="DataCode\TrinhDoTinHoc.Designer.cs">
+      <DependentUpon>TrinhDoTinHoc.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

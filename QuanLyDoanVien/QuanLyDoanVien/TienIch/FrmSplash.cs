@@ -20,6 +20,7 @@ namespace QuanLyDoanVien.TienIch
 
         public override void ProcessCommand(Enum cmd, object arg)
         {
+            lblTieuDe.Text = arg as string;
             base.ProcessCommand(cmd, arg);
         }
 

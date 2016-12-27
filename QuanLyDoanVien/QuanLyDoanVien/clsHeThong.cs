@@ -14,5 +14,19 @@ namespace QuanLyDoanVien
             get;
             set;
         }
+
+        public static NienKhoa NienKhoaSuDung
+        {
+            get;
+            set;
+        }
+
+        public static bool IsOffice2003()
+        {
+            object tmp;
+            Param.GetValue("Phiên bản Microsoft Office", out tmp);
+
+            return tmp.ToString().Equals("Phiên bản 2003") ? true : false;
+        }
     }
 }

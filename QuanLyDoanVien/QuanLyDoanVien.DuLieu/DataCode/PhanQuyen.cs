@@ -32,7 +32,7 @@ namespace QuanLyDoanVien.DuLieu
         public static PhanQuyen Find(NhomNguoiDung nhom, ChucNang chucnang)
         {
             if (chucnang == null || nhom == null) return null;
-            var pq = XpoDefault.Session.FindObject<PhanQuyen>(CriteriaOperator.Parse("[Nhom.Id] = ? and [ChucNang.Id] = ?"
+            var pq = XpoDefault.Session.FindObject<PhanQuyen>(CriteriaOperator.Parse("[NhomNguoiDung.Id] = ? and [ChucNang.Id] = ?"
                                                  , nhom.Id, chucnang.Id));
 
             return pq;

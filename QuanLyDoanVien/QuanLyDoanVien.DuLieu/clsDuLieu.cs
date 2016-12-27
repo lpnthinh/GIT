@@ -13,5 +13,10 @@ namespace QuanLyDoanVien.DuLieu
             get;
             set;
         }
+
+        public static void TaoDuLieuMacDinh()
+        {
+            NienKhoa.KhoiTao();
+        }
     }
 }
