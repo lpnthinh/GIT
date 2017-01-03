@@ -114,7 +114,7 @@ namespace QuanLyDoanVien.TienIch
             }
 
             MsgBox.ShowWaitForm(string.Format("Đã import {0}/{1} đơn vị h.chính!", iCount, dtExcel.Rows.Count));
-            MsgBox.CloseWaitForm();
+
             return true;
         }
         internal static bool ImportDonViList(string fileName, string sheetName)

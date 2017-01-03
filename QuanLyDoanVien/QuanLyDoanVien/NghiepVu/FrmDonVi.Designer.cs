@@ -151,7 +151,7 @@
             this.colTen.Name = "colTen";
             this.colTen.Visible = true;
             this.colTen.VisibleIndex = 0;
-            this.colTen.Width = 189;
+            this.colTen.Width = 255;
             // 
             // colMa
             // 

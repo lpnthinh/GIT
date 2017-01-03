@@ -234,6 +234,8 @@ namespace QuanLyDoanVien.DuLieu
             get { return fHinhAnh; }
             set { SetPropertyValue<byte[]>("HinhAnh", ref fHinhAnh, value); }
         }
+        [Association(@"QuaTrinhCongTacReferencesNhanSu"), Aggregated]
+        public XPCollection<QuaTrinhCongTac> QuaTrinhCongTacs { get { return GetCollection<QuaTrinhCongTac>("QuaTrinhCongTacs"); } }
     }
 
 }

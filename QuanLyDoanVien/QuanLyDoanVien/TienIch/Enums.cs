@@ -12,7 +12,14 @@ namespace QuanLyDoanVien.TienIch
         [Description("Nam")]
         Nam = 0,
         [Description("Nữ")]
-        Nu = 1,
+        Nu = 1
+    }
+    public enum KieuVanBan
+    {
+        [Description("Văn bản đi")]
+        Di = 0,
+        [Description("Văn bản đến")]
+        Den = 1
     }
     public enum TrangThaiDoan
     {

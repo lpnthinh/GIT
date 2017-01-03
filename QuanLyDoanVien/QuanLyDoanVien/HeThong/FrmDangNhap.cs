@@ -107,11 +107,15 @@ namespace QuanLyDoanVien.HeThong
 
                 str = string.Format(@"{0}\Downloads", Application.StartupPath);
                 if (!Directory.Exists(str)) Directory.CreateDirectory(str);
-                Param.GetValue("Đường dẫn lưu tải về", out tmp, ParamCategory.UserConfig, str, DataType.String);
+                Param.GetValue("Thư mục lưu tải về", out tmp, ParamCategory.UserConfig, str, DataType.String);
 
                 str = string.Format(@"{0}\Templates", Application.StartupPath);
                 if (!Directory.Exists(str)) Directory.CreateDirectory(str);
-                Param.GetValue("Đường dẫn lưu mẫu thiết kế", out tmp, ParamCategory.UserConfig, str, DataType.String);
+                Param.GetValue("Thư mục lưu mẫu thiết kế", out tmp, ParamCategory.UserConfig, str, DataType.String);
+
+                str = string.Format(@"{0}\Documents", Application.StartupPath);
+                if (!Directory.Exists(str)) Directory.CreateDirectory(str);
+                Param.GetValue("Thư mục lưu văn bản đi/đến", out tmp, ParamCategory.UserConfig, str, DataType.String);
 
                 Param.GetValue("Khởi động cùng Windows", out tmp, ParamCategory.System, false, DataType.Bool);
                 Param.GetValue("Tạo mã bằng chữ in hoa", out tmp, ParamCategory.UserConfig, false, DataType.Bool);

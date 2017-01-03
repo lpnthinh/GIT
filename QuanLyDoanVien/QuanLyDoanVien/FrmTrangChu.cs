@@ -6,6 +6,7 @@ using QuanLyDoanVien.DanhMuc;
 using QuanLyDoanVien.DuLieu;
 using QuanLyDoanVien.HeThong;
 using QuanLyDoanVien.NghiepVu;
+using QuanLyDoanVien.NghiepVu.QLVanBan;
 using QuanLyDoanVien.TienIch;
 using System;
 using System.Collections.Generic;
@@ -24,6 +25,8 @@ namespace QuanLyDoanVien
         {
             InitializeComponent();
 
+            itemNgay.Caption = string.Format("Ngày: {0:dd/MM/yyyy}", DateTime.Today);
+
             NapTatCaThongTin();
         }
         private void FrmTrangChu_Load(object sender, EventArgs e)
@@ -38,7 +41,6 @@ namespace QuanLyDoanVien
         public void NapTatCaThongTin()
         {
             NapGiaoDien();
-            NapNgay();
             NapCoSoDuLieu();
             NapPhienBan();
         }
@@ -61,10 +63,6 @@ namespace QuanLyDoanVien
             Param.SetValue("Giao diện", UserLookAndFeel.Default.SkinName);
             AppConfig.SetValue("Skin", UserLookAndFeel.Default.SkinName);
         }
-        public void NapNgay()
-        {
-            itemNgay.Caption = string.Format("Ngày: {0:dd/MM/yyyy}", DateTime.Today);
-        }
         public void NapCoSoDuLieu()
         {
             itemCoSoDuLieu.Caption = AppConfig.GetValue("Database");
@@ -76,6 +74,9 @@ namespace QuanLyDoanVien
         public void NapNienKhoa()
         {
             itemNienKhoa.Caption = "Niên khóa";
+
+            XpoDefault.Session.Disconnect();
+            XpoDefault.Session.Connect();
 
             var nienkhoa = NienKhoa.FindObject<NienKhoa>("SuDung", true);
             if (nienkhoa != null)
@@ -322,6 +323,30 @@ namespace QuanLyDoanVien
         {
             clsHeThong.ChucNangDangChon = e.Item.Tag as ChucNang;
             MsgBox.OpenDialog<FrmNhapTuExcel>();
+        }
+
+        private void btnNhanSu_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            clsHeThong.ChucNangDangChon = e.Item.Tag as ChucNang;
+            OpenForm<FrmNhanSu>();
+        }
+
+        private void btnKhenThuong_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            clsHeThong.ChucNangDangChon = e.Item.Tag as ChucNang;
+            OpenForm<FrmKhenThuong>();
+        }
+
+        private void btnKyLuat_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            clsHeThong.ChucNangDangChon = e.Item.Tag as ChucNang;
+            OpenForm<FrmKyLuat>();
+        }
+
+        private void btnQuanLyVanBan_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            clsHeThong.ChucNangDangChon = e.Item.Tag as ChucNang;
+            OpenForm<FrmVanBan>();
         }
     }
 }

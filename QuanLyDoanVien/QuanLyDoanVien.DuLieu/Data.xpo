@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="165af867-8c83-44bf-8c34-348f92956b35" dbName="QuanLyDoanVien" connectionInfo="77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxEZXZFeHByZXNzWHBvR2VuZXJhdG9yU2V0dGluZ3MgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6eHNkPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYSIgcHJvdmlkZXJLZXk9Ik1TU3FsU2VydmVyIj4NCiAgPHBhcmFtZXRlcj4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0ic2VydmVyIiB2YWx1ZT0iKExPQ0FMKVxTUUxFWFBSRVNTIiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJkYXRhYmFzZSIgdmFsdWU9IlF1YW5MeURvYW5WaWVuIiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJ1c2VJbnRlZ3JhdGVkU2VjdXJpdHkiIHZhbHVlPSJGYWxzZSIgLz4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0idXNlcmlkIiB2YWx1ZT0ic2EiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9InBhc3N3b3JkIiB2YWx1ZT0iTHBudDE2OEAiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9InJlYWQgb25seSIgdmFsdWU9IjEiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9ImdlbmVyYXRlQ29ubmVjdGlvbkhlbHBlciIgdmFsdWU9InRydWUiIC8+DQogIDwvcGFyYW1ldGVyPg0KPC9EZXZFeHByZXNzWHBvR2VuZXJhdG9yU2V0dGluZ3M+" namespace="QuanLyDoanVien.DuLieu" connectionString="XpoProvider=MSSqlServer;data source=(LOCAL)\SQLEXPRESS;user id=sa;password=Lpnt168@;initial catalog=QuanLyDoanVien;Persist Security Info=true" dataBaseShemaInfo="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" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="165af867-8c83-44bf-8c34-348f92956b35" dbName="QuanLyDoanVien" connectionInfo="77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxEZXZFeHByZXNzWHBvR2VuZXJhdG9yU2V0dGluZ3MgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6eHNkPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYSIgcHJvdmlkZXJLZXk9Ik1TU3FsU2VydmVyIj4NCiAgPHBhcmFtZXRlcj4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0ic2VydmVyIiB2YWx1ZT0iKExPQ0FMKVxTUUxFWFBSRVNTIiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJkYXRhYmFzZSIgdmFsdWU9IlF1YW5MeURvYW5WaWVuIiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJ1c2VJbnRlZ3JhdGVkU2VjdXJpdHkiIHZhbHVlPSJGYWxzZSIgLz4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0idXNlcmlkIiB2YWx1ZT0ic2EiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9InBhc3N3b3JkIiB2YWx1ZT0iTHBudDE2OEAiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9InJlYWQgb25seSIgdmFsdWU9IjEiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9ImdlbmVyYXRlQ29ubmVjdGlvbkhlbHBlciIgdmFsdWU9InRydWUiIC8+DQogIDwvcGFyYW1ldGVyPg0KPC9EZXZFeHByZXNzWHBvR2VuZXJhdG9yU2V0dGluZ3M+" namespace="QuanLyDoanVien.DuLieu" connectionString="XpoProvider=MSSqlServer;data source=(LOCAL)\SQLEXPRESS;user id=sa;password=Lpnt168@;initial catalog=QuanLyDoanVien;Persist Security Info=true" dataBaseShemaInfo="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" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
   <classes>
     <dataBaseObjectModelHasClasses Id="9f640c32-ec0e-491a-8342-193c4ed4e4a1">
       <xpObject Id="24272fc0-e342-4337-ab25-f5864c6e3b12" name="BaseObject" baseClass="XPBaseObject" userFileName="BaseObject" designerFileName="BaseObject.Designer" className="BaseObject" virtualBaseClass="XPBaseObject" nonPersistent="true" virtualName="BaseObject">
@@ -360,6 +360,16 @@
             <xpObjectMoniker Id="24272fc0-e342-4337-ab25-f5864c6e3b12" />
           </inheritance>
         </superClass>
+        <aggrTarget>
+          <aggregation Id="8c1f3e94-e7d7-4dce-b691-9402b0172270" sourceCollectionName="QuaTrinhCongTacs" name="QuaTrinhCongTacReferencesNhanSu" targetFieldName="NhanSu">
+            <xpObjectMoniker Id="3a1e0f04-364a-446e-a66f-d3a380f6ae85" />
+          </aggregation>
+        </aggrTarget>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="619014d1-9b42-4dd2-84e0-a5a1582f6b3e">
+            <collectionField Id="c117f26f-8ddb-4313-9b64-23715ed199a4" name="QuaTrinhCongTacs" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
       </xpObject>
     </dataBaseObjectModelHasClasses>
     <dataBaseObjectModelHasClasses Id="5c4ef8bb-4417-4d1c-b82f-f2a7b56ebf7b">
@@ -497,6 +507,192 @@
         </fields>
         <superClass>
           <inheritance Id="7f368a26-0da5-43fa-a43d-e0ca38517fb3">
+            <xpObjectMoniker Id="24272fc0-e342-4337-ab25-f5864c6e3b12" />
+          </inheritance>
+        </superClass>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="2d2c9fa4-7393-4a93-a1a0-e33540346310">
+      <xpObject Id="3a1e0f04-364a-446e-a66f-d3a380f6ae85" name="QuaTrinhCongTac" baseClass="BaseObject" userFileName="QuaTrinhCongTac" designerFileName="QuaTrinhCongTac.Designer" className="QuaTrinhCongTac" virtualBaseClass="BaseObject" virtualName="QuaTrinhCongTac">
+        <fields>
+          <generalXpObjectHasFields Id="895e55f5-b042-4939-84af-70c78a57f51d">
+            <field Id="9c0722d0-1e0c-48a9-a558-0407538b4298" name="NhanSu" virtualColumnType="NhanSu" logicalType="NhanSu" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c310f183-660b-4ea3-ac69-3cae95a4bbc9">
+            <field Id="748357a3-1a16-446d-b8a7-d6ea1c417600" name="TuThangNam" displayName="Từ tháng, năm" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="b72178ba-3e1c-485c-bf40-7da270ed0673">
+            <field Id="76b80a7b-7f84-4d46-9673-ff35294f4529" name="DenThangNam" displayName="Đến tháng, năm" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="795c850e-611c-4592-9359-f2c75b388ce9">
+            <field Id="8dab354a-f5d6-4b72-a117-e2824e164076" name="ChucDanh_ChucVu_DonViCongTac" displayName="Chức danh, chức vụ, đơn vị công tác" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="f01ee383-a236-4a8f-ab83-e63629d232f2">
+            <xpObjectMoniker Id="24272fc0-e342-4337-ab25-f5864c6e3b12" />
+          </inheritance>
+        </superClass>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="1ac2d1d8-f3d9-4a82-b683-01fd954e87fb">
+      <xpObject Id="1c7df37a-f0e4-49bf-ba65-5800dead150a" name="KhenThuong" baseClass="BaseObject" userFileName="KhenThuong" designerFileName="KhenThuong.Designer" className="KhenThuong" virtualBaseClass="BaseObject" virtualName="KhenThuong">
+        <fields>
+          <generalXpObjectHasFields Id="c116c33f-6932-4666-af70-739c83c97b65">
+            <field Id="d7f45fbc-2a77-4089-8bc1-f64ced3b1df4" name="NhanSu" displayName="Nhân sự" virtualColumnType="NhanSu" logicalType="NhanSu" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="fff53308-6bc3-48a2-a836-ea1619ee5fff">
+            <field Id="0c6a43d2-7c08-4868-adf9-ce5e3df93600" name="HinhThucKhenThuong" displayName="Hình thức KT" virtualColumnType="HinhThucKhenThuong" logicalType="HinhThucKhenThuong" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c9abc3a3-7236-4888-9866-f88f9bd339eb">
+            <field Id="edf296d7-84f8-40ff-82c0-709d65974bcd" name="NoiDungKhenThuong" displayName="Nội dung KT" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c180fdd7-dfe8-4648-813f-9ac4c8becf10">
+            <field Id="41377fa1-a9e4-427c-af75-d494e7232353" name="NgayKhenThuong" columnType="DateTime" displayName="Ngày KT" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="ef9362aa-a849-43c2-907f-a842116c8710">
+            <xpObjectMoniker Id="24272fc0-e342-4337-ab25-f5864c6e3b12" />
+          </inheritance>
+        </superClass>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="843c993e-1249-4ede-b35b-574c34b055cf">
+      <xpObject Id="964e19a4-48a6-4166-bc5b-218932b0044e" name="HinhThucKhenThuong" baseClass="BaseObject" userFileName="HinhThucKhenThuong" designerFileName="HinhThucKhenThuong.Designer" className="HinhThucKhenThuong" virtualBaseClass="BaseObject" virtualName="HinhThucKhenThuong">
+        <fields>
+          <generalXpObjectHasFields Id="a57cc35d-7207-4679-a17b-5e5e80461859">
+            <field Id="551d31d7-bc31-407c-80ca-5e1aac5616e6" name="Ten" displayName="Hình thức khen thưởng" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="bc0c21bf-5028-4b33-a693-f2e4d3d091f5">
+            <xpObjectMoniker Id="24272fc0-e342-4337-ab25-f5864c6e3b12" />
+          </inheritance>
+        </superClass>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="be1c3540-6073-429f-9018-38144a9afe4f">
+      <xpObject Id="cb3e21b6-5778-4515-b53f-0c11ea059aab" name="HinhThucKyLuat" baseClass="BaseObject" userFileName="HinhThucKyLuat" designerFileName="HinhThucKyLuat.Designer" className="HinhThucKyLuat" virtualBaseClass="BaseObject" virtualName="HinhThucKyLuat">
+        <fields>
+          <generalXpObjectHasFields Id="5ec118a0-4f78-4828-9597-7b40d78965a6">
+            <field Id="de03aadc-e627-48f1-b160-c97a170cff26" name="Ten" displayName="Hình thức kỷ luật" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="3d95d60b-7184-4d54-bb9d-28ca122072b3">
+            <xpObjectMoniker Id="24272fc0-e342-4337-ab25-f5864c6e3b12" />
+          </inheritance>
+        </superClass>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="36b5886d-85d1-4c1f-875a-5601e078bb79">
+      <xpObject Id="84765123-4499-40ba-a8a4-79a12f841098" name="KyLuat" baseClass="BaseObject" userFileName="KyLuat" designerFileName="KyLuat.Designer" className="KyLuat" virtualBaseClass="BaseObject" virtualName="KyLuat">
+        <fields>
+          <generalXpObjectHasFields Id="74109f4d-1a97-4c2a-ad3f-0670f6f2c9f1">
+            <field Id="e982ff84-8ed8-4bb2-b66d-5042dddbde24" name="NhanSu" displayName="Nhân sự" virtualColumnType="NhanSu" logicalType="NhanSu" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="88d1dee1-8696-4db6-8dee-e9ad91193091">
+            <field Id="4308eec5-e6bb-4cc7-bf13-50cb32450f9f" name="HinhThucKyLuat" displayName="Hình thức KL" virtualColumnType="HinhThucKyLuat" logicalType="HinhThucKyLuat" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="a763c991-af61-42a6-aed5-83a1ce52d4d4">
+            <field Id="9e1023b6-f1ae-4d13-8200-66ecafac17b8" name="NoiDungKyLuat" displayName="Nội dung KL" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="9f877ee3-9f9d-4499-9d72-e89b7fa05c8c">
+            <field Id="6f46178f-af68-4d78-b92c-200c7f7fcb1a" name="NgayKyLuat" columnType="DateTime" displayName="Ngày KL" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="741bc233-6f5d-4f68-9e70-b398c1ca3647">
+            <xpObjectMoniker Id="24272fc0-e342-4337-ab25-f5864c6e3b12" />
+          </inheritance>
+        </superClass>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="1556e29c-2e5c-4773-881b-33fb37ba242d">
+      <xpObject Id="755d30e5-75fb-4b5a-abd2-6a8817b9acca" name="LoaiVanBan" baseClass="BaseObject" userFileName="LoaiVanBan" designerFileName="LoaiVanBan.Designer" className="LoaiVanBan" virtualBaseClass="BaseObject" virtualName="LoaiVanBan">
+        <fields>
+          <generalXpObjectHasFields Id="a84b1a2d-7330-4429-a316-71c09c1a067c">
+            <field Id="dd88b873-37bf-43c0-a6dc-c8b9905ba2ae" name="Ten" displayName="Loại văn bản" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="30331a54-ada8-4dfa-a546-78381803cfa4">
+            <xpObjectMoniker Id="24272fc0-e342-4337-ab25-f5864c6e3b12" />
+          </inheritance>
+        </superClass>
+        <aggrTarget>
+          <aggregation Id="21c691b5-8cdb-43be-887c-2f54a114adfd" sourceCollectionName="VanBans" name="VanBanReferencesLoaiVanBan" targetFieldName="LoaiVanBan">
+            <xpObjectMoniker Id="46449d39-c072-4ae3-8196-40fe5c70e322" />
+          </aggregation>
+        </aggrTarget>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="862e15bd-06a0-413a-8303-43e8f9f3f78d">
+            <collectionField Id="38e79195-651f-4159-8845-beb8e2e72643" name="VanBans" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="5a085389-42db-4a80-81e8-db092f8b0b74">
+      <xpObject Id="46449d39-c072-4ae3-8196-40fe5c70e322" name="VanBan" baseClass="BaseObject" userFileName="VanBan" designerFileName="VanBan.Designer" className="VanBan" virtualBaseClass="BaseObject" virtualName="VanBan">
+        <fields>
+          <generalXpObjectHasFields Id="164e3180-1dce-46d4-9281-3517636e99d2">
+            <field Id="470d5a44-6fa8-42e2-8ae0-87cee6d2c350" name="Kieu" columnType="Int32" displayName="Kiểu" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="80f5c6b1-f828-40e7-96f1-3677085ce345">
+            <field Id="8a0dc01f-c94f-45a9-9247-1909d14ef0bf" name="SoKyHieu" displayName="Số ký hiệu" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="79699eec-ea5e-4f65-a2e5-d393a28826a8">
+            <field Id="3224d028-976c-4398-af6d-dfa534b77a30" name="LoaiVanBan" displayName="Loại văn bản" virtualColumnType="LoaiVanBan" logicalType="LoaiVanBan" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="90021b11-8ed3-4217-ae33-792c2d300536">
+            <field Id="8e0dc72d-25b7-4be4-9c34-a276d58830c0" name="NgayBanHanh" columnType="DateTime" displayName="Ngày ban hành" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="eb7136e1-2738-42d2-bd09-1d23f36e82c2">
+            <field Id="96e2b8da-eb2b-4f1a-a67e-0a653a19467d" name="NgayHieuLuc" columnType="DateTime" displayName="Ngày hiệu lực" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="b94f042c-7c79-4238-a929-810a78aa39da">
+            <field Id="6a3f2dc1-0836-44b7-b827-1a3038162c1b" name="CoQuanBanHanh" displayName="Cơ quan ban hành" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="0b96a12a-26c3-4f58-a2ed-a0e205a37278">
+            <field Id="fc6f04c8-b82c-438d-bb80-fb6a2b4b54df" name="NguoiKy" displayName="Người ký" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="0af23dbb-b894-4031-bc15-6c0c07b76661">
+            <field Id="88a24035-ab69-4882-87c1-a1885604c608" name="NoiNhan" displayName="Nơi nhận" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="58c32349-e834-4d59-a545-d765bbef16e5">
+            <field Id="ecba2b9c-76c9-43f8-a827-bc9f509eb5bb" name="TrichYeu" displayName="Trích yếu" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="16d7e80d-4093-4f21-bb3b-336ac5d6ea03">
+            <xpObjectMoniker Id="24272fc0-e342-4337-ab25-f5864c6e3b12" />
+          </inheritance>
+        </superClass>
+        <aggrTarget>
+          <aggregation Id="5edcd8b5-1645-4ddd-ab23-cb2891756f4d" sourceCollectionName="TepVanBans" name="TepVanBanReferencesVanBan" targetFieldName="VanBan">
+            <xpObjectMoniker Id="8af4befa-a41f-4975-83a7-c81448150eba" />
+          </aggregation>
+        </aggrTarget>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="5482af9f-3482-45db-8031-661955c1db66">
+            <collectionField Id="e2bdc27a-56c6-4780-bef8-630408e48798" name="TepVanBans" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="3a2c134f-ecff-4daa-ad0e-3a7d8acd1460">
+      <xpObject Id="8af4befa-a41f-4975-83a7-c81448150eba" name="TepVanBan" baseClass="BaseObject" userFileName="TepVanBan" designerFileName="TepVanBan.Designer" className="TepVanBan" virtualBaseClass="BaseObject" virtualName="TepVanBan">
+        <fields>
+          <generalXpObjectHasFields Id="a90f6fff-7e0a-4308-89df-5f11d3871908">
+            <field Id="811bf8e8-eaf7-41c8-8bf9-0dfd49a499e0" name="VanBan" displayName="Văn bản" virtualColumnType="VanBan" logicalType="VanBan" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="d966f746-7583-4b71-8500-31afb1147216">
+            <field Id="0bf1436d-4b3f-42f0-b7e7-98d879e6440f" name="DuongDanTep" displayName="Đường dẫn tệp" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="a0497c34-e8ab-4e82-abe7-1f8d2004efb4">
             <xpObjectMoniker Id="24272fc0-e342-4337-ab25-f5864c6e3b12" />
           </inheritance>
         </superClass>

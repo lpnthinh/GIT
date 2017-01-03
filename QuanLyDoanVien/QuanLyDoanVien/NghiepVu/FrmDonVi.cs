@@ -80,7 +80,7 @@ namespace QuanLyDoanVien.NghiepVu
         protected override void OnXuatExcel()
         {
             object tmp;
-            Param.GetValue("Đường dẫn lưu tải về", out tmp);
+            Param.GetValue("Thư mục lưu tải về", out tmp);
             bool b = clsHeThong.IsOffice2003();
             string tentep = string.Format(@"{0}\[{1}]-DonVi-{2:ddMMyyyy}.{3}", 
                                           tmp, clsHeThong.NienKhoaSuDung.Ten, DateTime.Today, b ? "xls" : "xlsx");

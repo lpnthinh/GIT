@@ -71,6 +71,26 @@
     <Compile Include="DataCode\HanhChinh.Designer.cs">
       <DependentUpon>HanhChinh.cs</DependentUpon>
     </Compile>
+    <Compile Include="DataCode\HinhThucKhenThuong.cs" />
+    <Compile Include="DataCode\HinhThucKhenThuong.Designer.cs">
+      <DependentUpon>HinhThucKhenThuong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\HinhThucKyLuat.cs" />
+    <Compile Include="DataCode\HinhThucKyLuat.Designer.cs">
+      <DependentUpon>HinhThucKyLuat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\KhenThuong.cs" />
+    <Compile Include="DataCode\KhenThuong.Designer.cs">
+      <DependentUpon>KhenThuong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\KyLuat.cs" />
+    <Compile Include="DataCode\KyLuat.Designer.cs">
+      <DependentUpon>KyLuat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\LoaiVanBan.cs" />
+    <Compile Include="DataCode\LoaiVanBan.Designer.cs">
+      <DependentUpon>LoaiVanBan.cs</DependentUpon>
+    </Compile>
     <Compile Include="DataCode\NgoaiNgu.cs" />
     <Compile Include="DataCode\NgoaiNgu.Designer.cs">
       <DependentUpon>NgoaiNgu.cs</DependentUpon>
@@ -99,6 +119,14 @@
     <Compile Include="DataCode\PhanQuyen.Designer.cs">
       <DependentUpon>PhanQuyen.cs</DependentUpon>
     </Compile>
+    <Compile Include="DataCode\QuaTrinhCongTac.cs" />
+    <Compile Include="DataCode\QuaTrinhCongTac.Designer.cs">
+      <DependentUpon>QuaTrinhCongTac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\TepVanBan.cs" />
+    <Compile Include="DataCode\TepVanBan.Designer.cs">
+      <DependentUpon>TepVanBan.cs</DependentUpon>
+    </Compile>
     <Compile Include="DataCode\TonGiao.cs" />
     <Compile Include="DataCode\TonGiao.Designer.cs">
       <DependentUpon>TonGiao.cs</DependentUpon>
@@ -122,6 +150,10 @@
     <Compile Include="DataCode\TrinhDoTinHoc.cs" />
     <Compile Include="DataCode\TrinhDoTinHoc.Designer.cs">
       <DependentUpon>TrinhDoTinHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCode\VanBan.cs" />
+    <Compile Include="DataCode\VanBan.Designer.cs">
+      <DependentUpon>VanBan.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

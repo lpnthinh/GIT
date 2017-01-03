@@ -84,8 +84,7 @@ namespace QuanLyDoanVien.TienIch
                 //XpoDefault.DataLayer = XpoDefault.GetDataLayer(ConnectionString, DevExpress.Xpo.DB.AutoCreateOption.DatabaseAndSchema);
                 XpoDefault.ConnectionString = ConnectionString;
 
-                Session s = new Session();
-                s.ConnectionString = ConnectionString;
+                Session s = new Session() { ConnectionString = ConnectionString };
                 s.Connect();
                 s.UpdateSchema();
                 s.Disconnect();

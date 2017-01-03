@@ -75,6 +75,24 @@
     <Compile Include="DanhMuc\FrmHanhChinh.Designer.cs">
       <DependentUpon>FrmHanhChinh.cs</DependentUpon>
     </Compile>
+    <Compile Include="DanhMuc\FrmLoaiVanBanThem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\FrmLoaiVanBanThem.Designer.cs">
+      <DependentUpon>FrmLoaiVanBanThem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DanhMuc\FrmHinhThucKyLuatThem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\FrmHinhThucKyLuatThem.Designer.cs">
+      <DependentUpon>FrmHinhThucKyLuatThem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DanhMuc\FrmHinhThucKhenThuongThem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\FrmHinhThucKhenThuongThem.Designer.cs">
+      <DependentUpon>FrmHinhThucKhenThuongThem.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmTrangChu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -129,11 +147,60 @@
     <Compile Include="NghiepVu\FrmDonVi.Designer.cs">
       <DependentUpon>FrmDonVi.cs</DependentUpon>
     </Compile>
+    <Compile Include="NghiepVu\FrmKyLuatDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NghiepVu\FrmKyLuatDialog.Designer.cs">
+      <DependentUpon>FrmKyLuatDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NghiepVu\FrmKyLuat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NghiepVu\FrmKyLuat.Designer.cs">
+      <DependentUpon>FrmKyLuat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NghiepVu\FrmKhenThuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NghiepVu\FrmKhenThuong.Designer.cs">
+      <DependentUpon>FrmKhenThuong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NghiepVu\FrmKhenThuongDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NghiepVu\FrmKhenThuongDialog.Designer.cs">
+      <DependentUpon>FrmKhenThuongDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NghiepVu\FrmNhanSu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NghiepVu\FrmNhanSu.Designer.cs">
+      <DependentUpon>FrmNhanSu.cs</DependentUpon>
+    </Compile>
     <Compile Include="NghiepVu\FrmNienKhoa.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="NghiepVu\FrmNienKhoa.Designer.cs">
       <DependentUpon>FrmNienKhoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NghiepVu\QLVanBan\clsThongKe_VanBan.cs" />
+    <Compile Include="NghiepVu\QLVanBan\FrmThongKeSoLuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NghiepVu\QLVanBan\FrmThongKeSoLuong.Designer.cs">
+      <DependentUpon>FrmThongKeSoLuong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NghiepVu\QLVanBan\FrmThongKeVanBanTheoLoai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NghiepVu\QLVanBan\FrmThongKeVanBanTheoLoai.Designer.cs">
+      <DependentUpon>FrmThongKeVanBanTheoLoai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NghiepVu\QLVanBan\FrmVanBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NghiepVu\QLVanBan\FrmVanBan.Designer.cs">
+      <DependentUpon>FrmVanBan.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -176,6 +243,7 @@
     </Compile>
     <Compile Include="TienIch\ImportData.cs" />
     <Compile Include="TienIch\KeyRegistry.cs" />
+    <Compile Include="TienIch\LinqToDatable.cs" />
     <Compile Include="TienIch\Localizier.cs" />
     <Compile Include="TienIch\MsgBox.cs" />
     <Compile Include="TienIch\RptBase.cs">
@@ -189,6 +257,15 @@
     <Compile Include="TienIch\WriteLog.cs" />
     <EmbeddedResource Include="DanhMuc\FrmHanhChinh.resx">
       <DependentUpon>FrmHanhChinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\FrmLoaiVanBanThem.resx">
+      <DependentUpon>FrmLoaiVanBanThem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\FrmHinhThucKyLuatThem.resx">
+      <DependentUpon>FrmHinhThucKyLuatThem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\FrmHinhThucKhenThuongThem.resx">
+      <DependentUpon>FrmHinhThucKhenThuongThem.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmTrangChu.resx">
       <DependentUpon>FrmTrangChu.cs</DependentUpon>
@@ -217,8 +294,32 @@
     <EmbeddedResource Include="NghiepVu\FrmDonVi.resx">
       <DependentUpon>FrmDonVi.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="NghiepVu\FrmKyLuatDialog.resx">
+      <DependentUpon>FrmKyLuatDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NghiepVu\FrmKyLuat.resx">
+      <DependentUpon>FrmKyLuat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NghiepVu\FrmKhenThuong.resx">
+      <DependentUpon>FrmKhenThuong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NghiepVu\FrmKhenThuongDialog.resx">
+      <DependentUpon>FrmKhenThuongDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NghiepVu\FrmNhanSu.resx">
+      <DependentUpon>FrmNhanSu.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="NghiepVu\FrmNienKhoa.resx">
       <DependentUpon>FrmNienKhoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NghiepVu\QLVanBan\FrmThongKeSoLuong.resx">
+      <DependentUpon>FrmThongKeSoLuong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NghiepVu\QLVanBan\FrmThongKeVanBanTheoLoai.resx">
+      <DependentUpon>FrmThongKeVanBanTheoLoai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NghiepVu\QLVanBan\FrmVanBan.resx">
+      <DependentUpon>FrmVanBan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">

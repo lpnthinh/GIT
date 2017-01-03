@@ -22,5 +22,10 @@ namespace QuanLyDoanVien.TienIch
         public const int PORT = 587;
         public const bool ENABLE_SSL = true;
         #endregion
+
+        #region Văn bản
+        public const int KIEU_VAN_BAN_DI = 0;
+        public const int KIEU_VAN_BAN_DEN = 1;
+        #endregion
     }
 }
