@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="ab7a2c28-141b-468c-bf27-d83e390f9152" dbName="QuanLyKyThi" connectionInfo="77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxEZXZFeHByZXNzWHBvR2VuZXJhdG9yU2V0dGluZ3MgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6eHNkPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYSIgcHJvdmlkZXJLZXk9Ik1TU3FsU2VydmVyIj4NCiAgPHBhcmFtZXRlcj4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0ic2VydmVyIiB2YWx1ZT0iKExPQ0FMKVxTUUxFWFBSRVNTIiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJkYXRhYmFzZSIgdmFsdWU9IlF1YW5MeUt5VGhpIiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJ1c2VJbnRlZ3JhdGVkU2VjdXJpdHkiIHZhbHVlPSJGYWxzZSIgLz4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0idXNlcmlkIiB2YWx1ZT0ic2EiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9InBhc3N3b3JkIiB2YWx1ZT0iTHBudDE2OEAiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9InJlYWQgb25seSIgdmFsdWU9IjEiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9ImdlbmVyYXRlQ29ubmVjdGlvbkhlbHBlciIgdmFsdWU9InRydWUiIC8+DQogIDwvcGFyYW1ldGVyPg0KPC9EZXZFeHByZXNzWHBvR2VuZXJhdG9yU2V0dGluZ3M+" namespace="Lpnt.QuanLyKyThi.DuLieu" connectionString="XpoProvider=MSSqlServer;data source=(LOCAL)\SQLEXPRESS;user id=sa;password=Lpnt168@;initial catalog=QuanLyKyThi;Persist Security Info=true" dataBaseShemaInfo="H4sIAAAAAAAEAMVXWU/bQBB+r9T/EOWZjff0rivHCEJboV6oUNTXPWaDW8eOfBD4910nISXQA1RKXizPNzPa+XYOj9P9q1kxuIS6yatyPCQjPNzPXr5ID3UDp21V6ykcl74aBKuyeXXV5OPhRdvOX0XRYrEYLdioqqcRxZhEXz+8P7UXMNMoL5tWlxaGGy/3d69hOHUwSM+0KaDpj1zKN8gt4Ab6qGeQ9WF+Mt/Atmn0E90Yvi57LGvrDtJoLWyUR3nTA1/mTreQeV00wWgb3Ni+7XJ37DKrpLCaU+QY04gzDEizxCPDFI0Tz4TjLI3WxhvnSVV0s7LZ4vBbOCh6DitlduzS6Ja4ZfYnco8leJukTwiRGFskKDOIC8qRMZQhm2DpmIljDck9ksE9+geeq3AO2udnqzEjUjmJFLUK8VhRpGLLEfcGhKKCEev/D9vD6+dni0Nq48RIRBwlga0NBUy1Q146jo3CyifywWx/ha7b8MENfKJrPXuW3mXEUOeVRFwpgThIjhINHMlYeCapp0zZJ+3dJbVJ5eD508yUx0zhBGFDAldOCFI+DpWdOIixpy4m97n+Y1Gf66KDs+v5DuhaqZ2mhiIhGUOcJARpE4expYBSC8Yo6/4L3R1kVhgPIqRSMxWGlHMeKUkwwh5LIql0lNKnpnpQFNVicqHL6Q4IKxDSci9QDDJMrMSHSe2IRlIDYK4NpuLhE+tRnRsimlb1Doa0ABk+SrEPjQthy7DQUxbhoUUS0i+FivmTDum1/NMk7Vc/cCd1ZZfgIFrB56s9MTuCy9dX8xqaZnSkWz26JPGI7g3W6nEvjdgI7w0mXdF2NYxL6NpaF3uDk84UuX0H12fVdyjHRoVkSsFdWDiAJzqNbo5YnjcpdNNA0yfgc7e53fTAhdDA51fruFbQaee3oM8wqy7hruEKvWs7CXtk9qW0yyIPs2Ipr67mVzGk4WbmULf5jmP7TRjpWyihDuU1qWYzKNtmXaP34C3jI2jyaXh9k4dSuOOxrQv/B9GdH4TsBxVXsj5JDAAA" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <classes>
+    <dataBaseObjectModelHasClasses Id="597fd857-0736-4470-a658-4ccf53971888">
+      <xpObject Id="c875ca42-d33a-430e-a39f-b38269f35d43" name="BaseObject" baseClass="XPBaseObject" userFileName="BaseObject" designerFileName="BaseObject.Designer" className="BaseObject" virtualBaseClass="XPBaseObject" nonPersistent="true" virtualName="BaseObject">
+        <fields>
+          <generalXpObjectHasFields Id="35c76c2c-925b-43ab-b5dd-8a69029792ca">
+            <field Id="f911700c-523b-4524-bb23-c907d3b66ae9" name="Id" columnType="Int32" key="true" isIdentity="true" displayName="ID" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c2d01241-6ad5-47ee-bbd0-f94edb6392ae">
+            <field Id="a03178d7-82c8-4682-86c4-4fbe582531cf" name="UpdateAt" columnType="DateTime" displayName="Cập nhật lúc" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="5bdd4be2-e3d2-4df2-a2bc-68fdee7c7dc8">
+            <field Id="011769b7-1d21-46ce-a2ad-f7d40b808f97" name="UpdateBy" displayName="Cập nhật bởi" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="c47dae7f-3213-4ff5-9e3f-a9b45284a3c6">
+      <xpObject Id="31b2df87-4885-4e74-9ae4-765f372f238c" name="Param" baseClass="BaseObject" userFileName="Param" designerFileName="Param.Designer" className="Param" virtualBaseClass="BaseObject" virtualName="Param">
+        <fields>
+          <generalXpObjectHasFields Id="1f2cec90-030f-4122-95be-9db6f0a40e58">
+            <field Id="38f03809-0b15-4411-8f62-89de60f2d61c" name="ParamCode" displayName="Tham số" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="9d6bd4d7-4c4a-4332-baba-6f9fedbd0207">
+            <field Id="c7ada2b2-5733-4191-ab64-b8e22cebb8cd" name="ValueType" displayName="Kiểu dữ liệu" virtualColumnType="Lpnt.QuanLyKyThi.DuLieu.DataType" logicalType="Lpnt.QuanLyKyThi.DuLieu.DataType" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="faa527a4-dc2a-43ab-ae4e-f1e03861d6fd">
+            <field Id="35bfe562-a384-4ddf-8710-0f071727d222" name="Value" displayName="Giá trị" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="7de9a55d-d7eb-4702-a6a2-7ff947dddf0c">
+            <field Id="8e57c4f5-6e71-49f7-8d1a-7aee04ab0257" name="AllowChange" columnType="Boolean" displayName="Cho phép sửa" virtualColumnType="Boolean" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="0f5907ec-7cbc-4b6b-8d0e-432febef8206">
+            <field Id="5e70316f-44ea-4ce7-8d57-8a595bf75864" name="ParamCategory" virtualColumnType="Lpnt.QuanLyKyThi.DuLieu.ParamCategory" logicalType="Lpnt.QuanLyKyThi.DuLieu.ParamCategory" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="63ecead1-6f99-45f4-b699-3b8376a41322">
+            <xpObjectMoniker Id="c875ca42-d33a-430e-a39f-b38269f35d43" />
+          </inheritance>
+        </superClass>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+  <externalTypes>
+    <dataBaseObjectModelHasExternalTypes Id="5a55f713-0a38-47f7-ad58-201c11f75156">
+      <externalType Id="aa3ba047-0747-4fa7-90c1-4cc08b4905f2" name="DataType" namespace="Lpnt.QuanLyKyThi.DuLieu" />
+    </dataBaseObjectModelHasExternalTypes>
+    <dataBaseObjectModelHasExternalTypes Id="7ba3af4b-6f70-4546-93ed-0b6c6ac47ad0">
+      <externalType Id="fa2072b5-1a6e-4577-ae5c-4474c7f04876" name="ParamCategory" namespace="Lpnt.QuanLyKyThi.DuLieu" />
+    </dataBaseObjectModelHasExternalTypes>
+  </externalTypes>
+</dataBaseObjectModel>
