@@ -8,5 +8,11 @@ namespace Lpnt.QuanLyKyThi.DuLieu
 {
     public class clsDuLieu
     {
+        public static NguoiDung NguoiDungDangNhap { get; set; }
+
+        public static void TaoDuLieuMacDinh()
+        {
+            
+        }
     }
 }

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="ab7a2c28-141b-468c-bf27-d83e390f9152" dbName="QuanLyKyThi" connectionInfo="77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxEZXZFeHByZXNzWHBvR2VuZXJhdG9yU2V0dGluZ3MgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6eHNkPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYSIgcHJvdmlkZXJLZXk9Ik1TU3FsU2VydmVyIj4NCiAgPHBhcmFtZXRlcj4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0ic2VydmVyIiB2YWx1ZT0iKExPQ0FMKVxTUUxFWFBSRVNTIiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJkYXRhYmFzZSIgdmFsdWU9IlF1YW5MeUt5VGhpIiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJ1c2VJbnRlZ3JhdGVkU2VjdXJpdHkiIHZhbHVlPSJGYWxzZSIgLz4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0idXNlcmlkIiB2YWx1ZT0ic2EiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9InBhc3N3b3JkIiB2YWx1ZT0iTHBudDE2OEAiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9InJlYWQgb25seSIgdmFsdWU9IjEiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9ImdlbmVyYXRlQ29ubmVjdGlvbkhlbHBlciIgdmFsdWU9InRydWUiIC8+DQogIDwvcGFyYW1ldGVyPg0KPC9EZXZFeHByZXNzWHBvR2VuZXJhdG9yU2V0dGluZ3M+" namespace="Lpnt.QuanLyKyThi.DuLieu" connectionString="XpoProvider=MSSqlServer;data source=(LOCAL)\SQLEXPRESS;user id=sa;password=Lpnt168@;initial catalog=QuanLyKyThi;Persist Security Info=true" dataBaseShemaInfo="H4sIAAAAAAAEAMVXWU/bQBB+r9T/EOWZjff0rivHCEJboV6oUNTXPWaDW8eOfBD4910nISXQA1RKXizPNzPa+XYOj9P9q1kxuIS6yatyPCQjPNzPXr5ID3UDp21V6ykcl74aBKuyeXXV5OPhRdvOX0XRYrEYLdioqqcRxZhEXz+8P7UXMNMoL5tWlxaGGy/3d69hOHUwSM+0KaDpj1zKN8gt4Ab6qGeQ9WF+Mt/Atmn0E90Yvi57LGvrDtJoLWyUR3nTA1/mTreQeV00wWgb3Ni+7XJ37DKrpLCaU+QY04gzDEizxCPDFI0Tz4TjLI3WxhvnSVV0s7LZ4vBbOCh6DitlduzS6Ja4ZfYnco8leJukTwiRGFskKDOIC8qRMZQhm2DpmIljDck9ksE9+geeq3AO2udnqzEjUjmJFLUK8VhRpGLLEfcGhKKCEev/D9vD6+dni0Nq48RIRBwlga0NBUy1Q146jo3CyifywWx/ha7b8MENfKJrPXuW3mXEUOeVRFwpgThIjhINHMlYeCapp0zZJ+3dJbVJ5eD508yUx0zhBGFDAldOCFI+DpWdOIixpy4m97n+Y1Gf66KDs+v5DuhaqZ2mhiIhGUOcJARpE4expYBSC8Yo6/4L3R1kVhgPIqRSMxWGlHMeKUkwwh5LIql0lNKnpnpQFNVicqHL6Q4IKxDSci9QDDJMrMSHSe2IRlIDYK4NpuLhE+tRnRsimlb1Doa0ABk+SrEPjQthy7DQUxbhoUUS0i+FivmTDum1/NMk7Vc/cCd1ZZfgIFrB56s9MTuCy9dX8xqaZnSkWz26JPGI7g3W6nEvjdgI7w0mXdF2NYxL6NpaF3uDk84UuX0H12fVdyjHRoVkSsFdWDiAJzqNbo5YnjcpdNNA0yfgc7e53fTAhdDA51fruFbQaee3oM8wqy7hruEKvWs7CXtk9qW0yyIPs2Ipr67mVzGk4WbmULf5jmP7TRjpWyihDuU1qWYzKNtmXaP34C3jI2jyaXh9k4dSuOOxrQv/B9GdH4TsBxVXsj5JDAAA" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="ab7a2c28-141b-468c-bf27-d83e390f9152" dbName="QuanLyKyThi" connectionInfo="77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxEZXZFeHByZXNzWHBvR2VuZXJhdG9yU2V0dGluZ3MgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6eHNkPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYSIgcHJvdmlkZXJLZXk9Ik1TU3FsU2VydmVyIj4NCiAgPHBhcmFtZXRlcj4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0ic2VydmVyIiB2YWx1ZT0iKExPQ0FMKVxTUUxFWFBSRVNTIiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJkYXRhYmFzZSIgdmFsdWU9IlF1YW5MeUt5VGhpIiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJ1c2VJbnRlZ3JhdGVkU2VjdXJpdHkiIHZhbHVlPSJGYWxzZSIgLz4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0idXNlcmlkIiB2YWx1ZT0ic2EiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9InBhc3N3b3JkIiB2YWx1ZT0iTHBudDE2OEAiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9InJlYWQgb25seSIgdmFsdWU9IjEiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9ImdlbmVyYXRlQ29ubmVjdGlvbkhlbHBlciIgdmFsdWU9InRydWUiIC8+DQogIDwvcGFyYW1ldGVyPg0KPC9EZXZFeHByZXNzWHBvR2VuZXJhdG9yU2V0dGluZ3M+" namespace="Lpnt.QuanLyKyThi.DuLieu" connectionString="XpoProvider=MSSqlServer;data source=(LOCAL)\SQLEXPRESS;user id=sa;password=Lpnt168@;initial catalog=QuanLyKyThi;Persist Security Info=true" dataBaseShemaInfo="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" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
   <classes>
     <dataBaseObjectModelHasClasses Id="597fd857-0736-4470-a658-4ccf53971888">
       <xpObject Id="c875ca42-d33a-430e-a39f-b38269f35d43" name="BaseObject" baseClass="XPBaseObject" userFileName="BaseObject" designerFileName="BaseObject.Designer" className="BaseObject" virtualBaseClass="XPBaseObject" nonPersistent="true" virtualName="BaseObject">
@@ -37,6 +37,438 @@
         </fields>
         <superClass>
           <inheritance Id="63ecead1-6f99-45f4-b699-3b8376a41322">
+            <xpObjectMoniker Id="c875ca42-d33a-430e-a39f-b38269f35d43" />
+          </inheritance>
+        </superClass>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="a4439e38-092e-47df-b0cc-7835fee7d244">
+      <xpObject Id="e5a7d338-64d1-4764-9660-56e8dff8e117" name="PhanQuyen" baseClass="BaseObject" userFileName="PhanQuyen" designerFileName="PhanQuyen.Designer" className="PhanQuyen" virtualBaseClass="BaseObject" virtualName="PhanQuyen">
+        <fields>
+          <generalXpObjectHasFields Id="8fe9dd40-7143-438e-9cf0-afc05244d0f3">
+            <field Id="520bff0f-6fe8-43b2-ac32-371ee286464f" name="NhomNguoiDung" displayName="Nhóm người dùng" virtualColumnType="NhomNguoiDung" logicalType="NhomNguoiDung" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="4a687938-9c4e-4a72-923f-348e54f280c4">
+            <field Id="d2a280b4-74a1-44ad-ac0b-cd441bb775ca" name="ChucNang" displayName="Chức năng" virtualColumnType="ChucNang" logicalType="ChucNang" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c865789e-5407-4760-b9b1-851615ac5235">
+            <field Id="ee901cfb-81da-40d9-99ec-9d588fcb1324" name="TruyCap" columnType="Boolean" displayName="Truy cập" virtualColumnType="Boolean" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="8b3a4da4-3e9c-4328-a765-a15465193e73">
+            <field Id="d9a1af7d-e0bc-469f-8f4a-e5a80991f9ab" name="Them" columnType="Boolean" displayName="Thêm" virtualColumnType="Boolean" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="a33c4701-d635-48fd-9abb-7ada90738b76">
+            <field Id="8ffe3f30-277e-4968-b17c-6b78acb632f0" name="Sua" columnType="Boolean" displayName="Sửa" virtualColumnType="Boolean" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="5e97f968-d500-4a10-9ab5-2d9b61de7dad">
+            <field Id="c569a6cb-5243-4cb1-a91f-d62da1bcc600" name="Xoa" columnType="Boolean" displayName="Xóa" virtualColumnType="Boolean" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="9ea4616c-80c0-4c03-ab9d-5a0a268671d5">
+            <xpObjectMoniker Id="c875ca42-d33a-430e-a39f-b38269f35d43" />
+          </inheritance>
+        </superClass>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="5031fa77-1e1a-40ee-8c38-8307dd9d47d9">
+      <xpObject Id="9107b8ca-27f8-48a6-916d-9044d8dd331d" name="NhomNguoiDung" baseClass="BaseObject" userFileName="NhomNguoiDung" designerFileName="NhomNguoiDung.Designer" className="NhomNguoiDung" virtualBaseClass="BaseObject" virtualName="NhomNguoiDung">
+        <fields>
+          <generalXpObjectHasFields Id="b53a56f6-8942-49aa-b47e-f6c12fcea21f">
+            <field Id="29910332-89c9-4a7b-a28d-d1715f4ae442" name="TenNhom" displayName="Tên nhóm" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="af3122fd-11cc-403e-a522-b5a6a8a4d16f">
+            <field Id="ae87a24e-0a13-48ac-b8e1-73d91d1b2821" name="QuanTri" columnType="Boolean" displayName="Quản trị" virtualColumnType="Boolean" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="9414c493-c5ab-420c-9b09-9c7c8b3595c7">
+            <xpObjectMoniker Id="c875ca42-d33a-430e-a39f-b38269f35d43" />
+          </inheritance>
+        </superClass>
+        <aggrTarget>
+          <aggregation Id="1b001536-7ffb-4b92-9dc7-3566c6ec4e26" sourceCollectionName="PhanQuyens" name="PhanQuyenReferencesNhomNguoiDung" targetFieldName="NhomNguoiDung">
+            <xpObjectMoniker Id="e5a7d338-64d1-4764-9660-56e8dff8e117" />
+          </aggregation>
+          <aggregation Id="daabadc3-d0d7-4890-96d2-aa53b6413584" sourceCollectionName="NguoiDungs" name="NguoiDungReferencesNhomNguoiDung" targetFieldName="NhomNguoiDung">
+            <xpObjectMoniker Id="74e946e2-a462-44a2-b63e-ea9384d28c9e" />
+          </aggregation>
+        </aggrTarget>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="dc82d774-841b-487c-b888-6754d91ead4d">
+            <collectionField Id="e4b6cafd-68b5-4407-b745-93a8d546c502" name="PhanQuyens" />
+          </xpObjectHasCollectionFields>
+          <xpObjectHasCollectionFields Id="d686b96a-f19f-40ce-ae4e-c87f57ed7e28">
+            <collectionField Id="047823c0-d860-4d1e-bab5-4378f3bcac77" name="NguoiDungs" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="346a5cff-33bb-46b3-8ef9-182471ccce37">
+      <xpObject Id="820189db-4e41-4e11-9639-da28c618ef13" name="ChucNang" baseClass="BaseObject" userFileName="ChucNang" designerFileName="ChucNang.Designer" className="ChucNang" virtualBaseClass="BaseObject" virtualName="ChucNang">
+        <fields>
+          <generalXpObjectHasFields Id="c4518a70-4223-4698-8df7-172afd924615">
+            <field Id="ab51e94e-b7f9-478e-9f6b-74121e5d8d83" name="Ma" displayName="Mã" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="a10ab444-7ea1-40d7-b07d-53b4d5873706">
+            <field Id="e383a415-d6b0-4c36-8fe7-e261ac4049d8" name="Ten" displayName="Chức năng" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="453bdda0-8012-47f2-981c-094a88592041">
+            <field Id="e2b627f1-7c80-4596-a585-e88d808795ea" name="Cha" virtualColumnType="ChucNang" logicalType="ChucNang" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="442c5af8-b02a-4da1-b77e-999ded25abf9">
+            <xpObjectMoniker Id="c875ca42-d33a-430e-a39f-b38269f35d43" />
+          </inheritance>
+        </superClass>
+        <aggrTarget>
+          <aggregation Id="32db4dfa-6b09-4761-90e1-702fe1a20bae" sourceCollectionName="ChucNangCollection" name="ChucNangReferencesChucNang" targetFieldName="Cha">
+            <xpObjectMoniker Id="820189db-4e41-4e11-9639-da28c618ef13" />
+          </aggregation>
+          <aggregation Id="4a830b9f-a521-4562-ad1a-4b6ad64f5016" sourceCollectionName="PhanQuyens" name="PhanQuyenReferencesChucNang" targetFieldName="ChucNang">
+            <xpObjectMoniker Id="e5a7d338-64d1-4764-9660-56e8dff8e117" />
+          </aggregation>
+        </aggrTarget>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="61639073-a332-4fcc-a9ff-31a4d2f50957">
+            <collectionField Id="e8b5a18c-d1c4-495a-b05a-649148a76e8c" name="ChucNangCollection" />
+          </xpObjectHasCollectionFields>
+          <xpObjectHasCollectionFields Id="8a1f570d-6a68-457e-ab61-b7815fd72ba7">
+            <collectionField Id="0c6cd483-48b7-4a18-8684-8b4f0b18d3f1" name="PhanQuyens" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="c255208d-31e7-41e4-a80a-016fadec86a7">
+      <xpObject Id="74e946e2-a462-44a2-b63e-ea9384d28c9e" name="NguoiDung" baseClass="BaseObject" userFileName="NguoiDung" designerFileName="NguoiDung.Designer" className="NguoiDung" virtualBaseClass="BaseObject" virtualName="NguoiDung">
+        <fields>
+          <generalXpObjectHasFields Id="0ecb569a-502e-483c-ab1c-635cd1c85bf4">
+            <field Id="845d081e-c990-4366-a24e-4cc0507804d0" name="TenDangNhap" displayName="Tên đăng nhập" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="b60d3013-584b-4056-a777-63f781f3c7fe">
+            <field Id="f1351429-1b73-496f-97c4-5fcedc4f27d3" name="MatKhau" displayName="Mật khẩu" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="65d0af7a-7e2f-41c9-a495-3ff9b15c79cc">
+            <field Id="be88fd72-06c4-4f93-9445-abec2ef09d68" name="HoVaTen" displayName="Họ và tên" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="3fedabc7-d433-4022-bb50-2e0859fad3fb">
+            <field Id="a2b4ec84-455c-4331-ae13-1fa3773224b4" name="DienThoai" displayName="Điện thoại" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="0a61f0e6-b5d5-4e7d-bd0f-a4492ddb19b1">
+            <field Id="19756306-1a18-47c1-936d-34920435a350" name="EmailLienHe" displayName="Email liên hệ" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="e36fbd69-ce73-4390-8992-c19c55162160">
+            <field Id="fafc2970-b5ad-428c-b2d7-4ede4a8695cb" name="HoatDong" columnType="Boolean" displayName="Hoạt động" virtualColumnType="Boolean" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="444f0a19-9436-4add-bed4-ef5e047da71b">
+            <field Id="f9fd9978-f032-42b6-a6aa-04a445c3175e" name="NhomNguoiDung" displayName="Nhóm người dùng" virtualColumnType="NhomNguoiDung" logicalType="NhomNguoiDung" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="42dc3e0a-8138-4db9-b668-ab55c0aa62c8">
+            <field Id="1edf3e72-c9b3-4487-8d27-23da0bb23555" name="QuanTri" columnType="Boolean" displayName="Quản trị" virtualColumnType="Boolean" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="713e6ec7-9578-475b-9285-a7a22174c01a">
+            <xpObjectMoniker Id="c875ca42-d33a-430e-a39f-b38269f35d43" />
+          </inheritance>
+        </superClass>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="ebe7f1de-3f50-475c-8a32-a6689c0efda7">
+      <xpObject Id="3350cbb4-81bd-47c9-ae5d-dcd41c674a0a" name="KhoaThi" baseClass="BaseObject" userFileName="KhoaThi" designerFileName="KhoaThi.Designer" className="KhoaThi" virtualBaseClass="BaseObject" virtualName="KhoaThi">
+        <fields>
+          <generalXpObjectHasFields Id="2a83e35e-a0f5-4b00-866b-5740581884de">
+            <field Id="6561af37-6487-46de-87a6-86753a97077e" name="Ma" displayName="Mã khóa thi" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="cba28685-ba5c-481e-a183-234d7c72fade">
+            <field Id="efeb6fff-995f-4e26-920f-32dc19c1ef4c" name="Ten" displayName="Khóa thi" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="3ee1806a-4fd7-4a2e-81e3-b9e060f75bbb">
+            <field Id="4c1fe670-2f15-4353-9926-569664c5f85e" name="KhoaNgay" columnType="DateTime" displayName="Khóa ngày" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="b3278035-0df4-4027-ad29-4c417ecb3059">
+            <field Id="d9ca8870-7528-4b9b-bf51-42695e0fba54" name="GhiChu" displayName="Ghi chú" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="31d64bc4-d562-4427-90a0-530345f41a54">
+            <xpObjectMoniker Id="c875ca42-d33a-430e-a39f-b38269f35d43" />
+          </inheritance>
+        </superClass>
+        <aggrTarget>
+          <aggregation Id="be4a2ffa-2547-4329-b744-3724f4a5f7c9" sourceCollectionName="MonThis" name="MonThiReferencesKhoaThi" targetFieldName="Id_KhoaThi">
+            <xpObjectMoniker Id="1ad52089-86eb-464a-95c3-ef9c3ff4bcd1" />
+          </aggregation>
+          <aggregation Id="b62fbfbc-933c-429b-8640-4634d5cb4907" sourceCollectionName="GiamThis" name="GiamThiReferencesKhoaThi" targetFieldName="Id_KhoaThi">
+            <xpObjectMoniker Id="4c666acc-7a78-491a-8aa9-a1d369fa0e0d" />
+          </aggregation>
+          <aggregation Id="f772a7c3-c4fd-48bb-8777-0eacc1109dcd" sourceCollectionName="ThiSinhs" name="ThiSinhReferencesKhoaThi" targetFieldName="Id_KhoaThi">
+            <xpObjectMoniker Id="1d99c17f-c6b8-454e-bde7-21cfd581b46d" />
+          </aggregation>
+        </aggrTarget>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="b2a44d5f-6470-4c6c-aefa-38d84d111275">
+            <collectionField Id="92396db5-6362-4d67-af5d-912e890b9f09" name="MonThis" />
+          </xpObjectHasCollectionFields>
+          <xpObjectHasCollectionFields Id="4183d9cd-9e67-429e-a5eb-0bf7a08caa8d">
+            <collectionField Id="3607cf89-e73d-46fd-a822-116f4ab0e1b8" name="GiamThis" />
+          </xpObjectHasCollectionFields>
+          <xpObjectHasCollectionFields Id="6db2e692-9abe-40b2-abb3-1735d4840852">
+            <collectionField Id="faa37354-bb1c-42fc-b57f-4e31b935b419" name="ThiSinhs" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="7a46c880-abe4-4a78-a0f3-a696ee95cdf9">
+      <xpObject Id="e27533ec-2c6e-44a1-a997-0be120d40e87" name="GiaoVien" baseClass="BaseObject" userFileName="GiaoVien" designerFileName="GiaoVien.Designer" className="GiaoVien" virtualBaseClass="BaseObject" virtualName="GiaoVien">
+        <fields>
+          <generalXpObjectHasFields Id="8453efc8-434e-4d09-907e-a4d2021c59f4">
+            <field Id="f9947954-c5fe-4b06-9a6a-8981f4f44318" name="Ma" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="21c65aa3-262b-47ac-8ee9-873377b208c1">
+            <field Id="5bc94b4b-3784-41ad-8d9d-c69237caf24c" name="HoDem" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="9d26d4d4-af82-4688-b802-6438d7622036">
+            <field Id="b11f044d-6dc1-418e-8e19-59784ecf4bab" name="Ten" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="ed41a784-3193-4dea-996b-ffa63826b151">
+            <field Id="ee444bea-748b-4b88-a6cc-53991ffc1be8" name="NgaySinh" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="07a83609-6f03-4363-8714-08c798771b62">
+            <field Id="b235cb60-ef11-4762-b8ac-cb5bf563656e" name="GioiTinh" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="175aff56-75f3-4028-b33f-fa3e3026064b">
+            <field Id="12d37ec9-6301-4ff5-b73b-dc05dfd6703c" name="DonVi" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="64101e93-4acd-4826-947b-6b921b4e2b21">
+            <field Id="45f1a77d-f975-419f-934f-ea3469ff631f" name="DienThoai" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="0ebc0814-dd1b-43fc-8e86-1f2e9305cac4">
+            <field Id="e32b43b5-6a11-482d-8905-44595009321a" name="EmailLienHe" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="15a7ea28-4fde-41e4-9ef5-71572a38c79a">
+            <field Id="494afd4d-6628-4ae0-bec9-11f429987d85" name="HinhAnh" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="efb411c5-1144-4344-9d99-803a82e48aa9">
+            <xpObjectMoniker Id="c875ca42-d33a-430e-a39f-b38269f35d43" />
+          </inheritance>
+        </superClass>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="2c3c7dd1-3940-4deb-aa5c-1292d4126d32">
+      <xpObject Id="25567300-39dc-45fb-a5df-d8f41e9e0b26" name="HocSinh" baseClass="BaseObject" userFileName="HocSinh" designerFileName="HocSinh.Designer" className="HocSinh" virtualBaseClass="BaseObject" virtualName="HocSinh">
+        <fields>
+          <generalXpObjectHasFields Id="b815bbdd-5305-4e1d-b25c-f1973fbe94e9">
+            <field Id="53e3e514-9435-4ef1-8031-764509bbfc84" name="Ma" displayName="Mã học sinh" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="b922935c-a0a8-4a95-bd98-c16a9c48423a">
+            <field Id="615c3593-e4dc-481c-a485-bc789a49373e" name="HoDem" displayName="Họ đệm" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="84495e60-7564-4bfa-9bcf-44eb76f2f7fd">
+            <field Id="a5f7020a-e619-4071-91c1-43831874750b" name="Ten" displayName="Tên" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="13d2325f-028a-4777-8e3f-99dde3780732">
+            <field Id="e47a521e-e9f5-4b55-adec-5836b12fa401" name="GioiTinh" columnType="Int32" displayName="Giới tính" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="a64964d2-3c85-402d-b7b0-0c344929b181">
+            <field Id="dcc4349e-752d-4e6f-a5a2-fd8367e893e9" name="NgaySinh" columnType="DateTime" displayName="Ngày sinh" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="9f7f3803-73c2-46c0-8f09-1df69ec0d273">
+            <field Id="a8a671a9-97f8-4956-b538-c9599f0a9b33" name="DanToc" displayName="Dân tộc" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="3b8f2d47-b69a-497d-aec0-ee49cb940042">
+            <field Id="980f15d5-f5b7-49ae-b81f-5d2df8b664af" name="DiaChi" displayName="Địa chỉ" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="39215ee2-d1ee-40c6-ae6f-4519eb2afa9f">
+            <field Id="cf5b7b44-7e2b-4ba7-92c1-02db5eb53a4a" name="LopHoc" displayName="Lớp học" virtualColumnType="LopHoc" logicalType="LopHoc" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c5bcfc19-8e5d-4927-b049-d139b6e91b5c">
+            <field Id="cf194b3b-c5ad-4917-af10-66ee4de7fca5" name="NamHoc" displayName="Năm học" virtualColumnType="NamHoc" logicalType="NamHoc" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="03438c2d-f40f-4261-9521-b75b477c3ed1">
+            <field Id="4ed1b3d1-cd75-4d60-a615-6d9edd7fb4ce" name="HinhAnh" columnType="ByteArray" displayName="Hình ảnh" virtualColumnType="ByteArray" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="c76084df-e35b-44d2-82fb-7f493fbba954">
+            <xpObjectMoniker Id="c875ca42-d33a-430e-a39f-b38269f35d43" />
+          </inheritance>
+        </superClass>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="808a584a-17d1-44fc-9b2d-9d8bf3609a7b">
+      <xpObject Id="9f1f5bd4-e0b6-4340-aed2-5bb55bde246a" name="KhoiLop" baseClass="BaseObject" userFileName="KhoiLop" designerFileName="KhoiLop.Designer" className="KhoiLop" virtualBaseClass="BaseObject" virtualName="KhoiLop">
+        <fields>
+          <generalXpObjectHasFields Id="c3cc8850-82e6-402b-8e62-7325f1407ac3">
+            <field Id="af57c7b0-581f-4a9a-a3d5-49d281107646" name="Ma" displayName="Mã khối lớp" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c7d4d190-8a28-4a8a-ba24-d37f7026be55">
+            <field Id="811f7990-dfa6-4811-bf95-33d749f776df" name="Ten" displayName="Khối lớp" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="3c3071dd-885e-452d-abc5-09aac6aba598">
+            <field Id="184f2bcb-ec4c-4633-8dbd-6fc80c6dae8e" name="TruongHoc" displayName="Trường học" virtualColumnType="TruongHoc" logicalType="TruongHoc" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="25b2ea33-7ffb-4961-aecf-d3e4efa9a3ef">
+            <xpObjectMoniker Id="c875ca42-d33a-430e-a39f-b38269f35d43" />
+          </inheritance>
+        </superClass>
+        <aggrTarget>
+          <aggregation Id="df5dab64-705c-4012-90c4-2913f5c7fad3" sourceCollectionName="LopHocs" name="LopHocReferencesKhoiLop" targetFieldName="KhoiLop">
+            <xpObjectMoniker Id="456c7953-df15-4ed6-a7c3-d70d3d09c362" />
+          </aggregation>
+        </aggrTarget>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="32ffafec-d1cd-4e4e-9d8c-25cc6911fbab">
+            <collectionField Id="b695f7a4-d417-4da1-b694-a4294a46c22b" name="LopHocs" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="916363c3-afa6-439e-9e85-4ff2e3d0d8e2">
+      <xpObject Id="f09bdd25-0488-4acf-9f18-20014985bada" name="TruongHoc" baseClass="BaseObject" userFileName="TruongHoc" designerFileName="TruongHoc.Designer" className="TruongHoc" virtualBaseClass="BaseObject" virtualName="TruongHoc">
+        <fields>
+          <generalXpObjectHasFields Id="7efe7a4b-9202-492e-96b6-5a82153379b1">
+            <field Id="04ca811b-6099-490b-aa40-094dcdd6170d" name="Ma" displayName="Mã trường học" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="784115d0-3728-47ce-98dc-470a0901a327">
+            <field Id="05399fc0-78ef-46e6-81e9-ba9122a7f11c" name="Ten" displayName="Trường học" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="bfcc3632-04c4-4a55-8869-c3d9034c0afc">
+            <xpObjectMoniker Id="c875ca42-d33a-430e-a39f-b38269f35d43" />
+          </inheritance>
+        </superClass>
+        <aggrTarget>
+          <aggregation Id="43d58e9e-0a72-4390-990d-a3fdb4ceba46" sourceCollectionName="KhoiLops" name="KhoiLopReferencesTruongHoc" targetFieldName="TruongHoc">
+            <xpObjectMoniker Id="9f1f5bd4-e0b6-4340-aed2-5bb55bde246a" />
+          </aggregation>
+        </aggrTarget>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="704f9a8e-b3bf-45f2-8436-23f99c125fe1">
+            <collectionField Id="af99bac8-8027-4a17-874d-8e0494f4cbcb" name="KhoiLops" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="fb4d7c88-1112-496b-b0ff-719bcc2dbf93">
+      <xpObject Id="456c7953-df15-4ed6-a7c3-d70d3d09c362" name="LopHoc" baseClass="BaseObject" userFileName="LopHoc" designerFileName="LopHoc.Designer" className="LopHoc" virtualBaseClass="BaseObject" virtualName="LopHoc">
+        <fields>
+          <generalXpObjectHasFields Id="77e14090-0e6d-465a-8233-edf2ad88e34a">
+            <field Id="233a122a-d567-4e56-8070-f0d8591273d7" name="Ma" displayName="Mã lớp học" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="76e2f9fe-d0d2-454b-bad7-0feb341dc885">
+            <field Id="bfde6972-d2f5-4891-bf6a-c5360c047682" name="Ten" displayName="Lớp học" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="f6e32514-f60c-47c1-a068-6ed829d3e7eb">
+            <field Id="5bdfc818-9d84-4cef-a2f8-1a7ebbe9c0cd" name="KhoiLop" displayName="Khối lớp" virtualColumnType="KhoiLop" logicalType="KhoiLop" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="0ebed368-14cf-4c1b-bf74-4a032c25b3af">
+            <xpObjectMoniker Id="c875ca42-d33a-430e-a39f-b38269f35d43" />
+          </inheritance>
+        </superClass>
+        <aggrTarget>
+          <aggregation Id="0b269423-a034-4224-afb3-a69ff2f78af7" sourceCollectionName="HocSinhs" name="HocSinhReferencesLopHoc" targetFieldName="LopHoc">
+            <xpObjectMoniker Id="25567300-39dc-45fb-a5df-d8f41e9e0b26" />
+          </aggregation>
+        </aggrTarget>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="e196c67b-bbd3-4289-9485-5bc1084abcd1">
+            <collectionField Id="36b04b55-0c39-4680-b480-9451c693de86" name="HocSinhs" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="781bc7c0-be91-4464-b0bd-04620f545c7d">
+      <xpObject Id="ddc46028-8318-44ed-9c35-62522181b2fb" name="NamHoc" baseClass="BaseObject" userFileName="NamHoc" designerFileName="NamHoc.Designer" className="NamHoc" virtualBaseClass="BaseObject" virtualName="NamHoc">
+        <fields>
+          <generalXpObjectHasFields Id="2b5a1cd7-e709-41e8-9a47-fa4baaaed71a">
+            <field Id="581a26b9-db27-4830-9958-a5c0fe4d20b3" name="Ten" displayName="Năm học" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="5d3bd8fa-eca1-4356-8e3c-634f699534dc">
+            <field Id="1974d471-8407-48ed-9601-8ff768301254" name="SuDung" columnType="Boolean" displayName="Sử dụng" virtualColumnType="Boolean" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="fdf99bf9-eabd-4d36-af57-b3020f661405">
+            <xpObjectMoniker Id="c875ca42-d33a-430e-a39f-b38269f35d43" />
+          </inheritance>
+        </superClass>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="9c22f2c2-ca52-4fbc-99f1-50a80cca0994">
+      <xpObject Id="5f2adf81-5169-4507-b2ba-21ac948cf11a" name="MonHoc" baseClass="BaseObject" userFileName="MonHoc" designerFileName="MonHoc.Designer" className="MonHoc" virtualBaseClass="BaseObject" virtualName="MonHoc">
+        <fields>
+          <generalXpObjectHasFields Id="2be13a3d-e95e-410f-92f3-eb68704ad206">
+            <field Id="aa199152-b77b-4d93-9056-8e05676904dd" name="Ten" displayName="Môn học" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="0fa5c8ee-1e9f-4aff-b4cc-dc649b216e5f">
+            <xpObjectMoniker Id="c875ca42-d33a-430e-a39f-b38269f35d43" />
+          </inheritance>
+        </superClass>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="665c970b-97e5-46dd-a85b-ff4dc776b6d8">
+      <xpObject Id="1ad52089-86eb-464a-95c3-ef9c3ff4bcd1" name="MonThi" baseClass="BaseObject" userFileName="MonThi" designerFileName="MonThi.Designer" className="MonThi" virtualBaseClass="BaseObject" virtualName="MonThi">
+        <fields>
+          <generalXpObjectHasFields Id="9de3de8e-92ed-464e-9bff-dd0a9816dada">
+            <field Id="cdd935ca-7172-4651-b083-991a48f8085b" name="Id_KhoaThi" virtualColumnType="KhoaThi" logicalType="KhoaThi" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="0076997f-3283-4015-9c51-edbc3ae23060">
+            <field Id="c24d06c4-16cc-471a-87f4-2b23591a7ea8" name="Id_MonHoc" virtualColumnType="MonHoc" logicalType="MonHoc" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="e4110b15-c8be-485d-8f20-baa1ba2833a7">
+            <field Id="72c24d8b-6c7c-444d-83fb-008604bd3812" name="ThoiGian" columnType="Int32" displayName="Thời gian (phút)" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="6db5923e-8d43-4116-8e3e-8371639c98e2">
+            <field Id="80c1b510-e41a-418f-85d6-14d2324746d6" name="HinhThucThi" columnType="Int32" displayName="Hình thức thi" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="36ba52d2-50e2-4789-b676-429eaaf1087e">
+            <xpObjectMoniker Id="c875ca42-d33a-430e-a39f-b38269f35d43" />
+          </inheritance>
+        </superClass>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="625cdede-8aed-474a-81ad-b6fa6221994d">
+      <xpObject Id="4c666acc-7a78-491a-8aa9-a1d369fa0e0d" name="GiamThi" baseClass="BaseObject" userFileName="GiamThi" designerFileName="GiamThi.Designer" className="GiamThi" virtualBaseClass="BaseObject" virtualName="GiamThi">
+        <fields>
+          <generalXpObjectHasFields Id="a362ab9a-a8f9-43bb-b0f9-5b4cc8baf0a3">
+            <field Id="29753f3e-a4e8-4ee2-a0b3-6d9a04880e56" name="Id_KhoaThi" virtualColumnType="KhoaThi" logicalType="KhoaThi" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="7cbae5dc-5757-4d77-9169-cbfb03d28764">
+            <field Id="8ae657b1-2aa9-4dfa-a16d-7adc1ca0285c" name="Id_GiaoVien" virtualColumnType="GiaoVien" logicalType="GiaoVien" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="f8c89559-01c6-4842-989f-3e8156315f60">
+            <xpObjectMoniker Id="c875ca42-d33a-430e-a39f-b38269f35d43" />
+          </inheritance>
+        </superClass>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="1dbdd21b-9425-45eb-a6df-40a7fae06b41">
+      <xpObject Id="1d99c17f-c6b8-454e-bde7-21cfd581b46d" name="ThiSinh" baseClass="BaseObject" userFileName="ThiSinh" designerFileName="ThiSinh.Designer" className="ThiSinh" virtualBaseClass="BaseObject" virtualName="ThiSinh">
+        <fields>
+          <generalXpObjectHasFields Id="58105267-d7d6-4ed1-8c4e-ffa4a9ebf280">
+            <field Id="863f41d3-efeb-46e8-9e4d-163cca300e4d" name="Id_KhoaThi" virtualColumnType="KhoaThi" logicalType="KhoaThi" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="21190dcc-a79e-47ba-9273-e9990442916c">
+            <field Id="7f08acd0-400f-4a68-9bdf-843ab86fa6c3" name="Id_HocSinh" virtualColumnType="HocSinh" logicalType="HocSinh" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="172a3b9c-067a-478b-91b1-84c2c7a23d25">
             <xpObjectMoniker Id="c875ca42-d33a-430e-a39f-b38269f35d43" />
           </inheritance>
         </superClass>

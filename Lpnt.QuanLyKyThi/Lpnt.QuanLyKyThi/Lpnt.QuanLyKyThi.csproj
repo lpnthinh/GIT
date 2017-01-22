@@ -35,11 +35,14 @@
   <ItemGroup>
     <Reference Include="DevExpress.BonusSkins.v16.2" />
     <Reference Include="DevExpress.Data.v16.2" />
+    <Reference Include="DevExpress.Images.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.Printing.v16.2.Core" />
     <Reference Include="DevExpress.Utils.v16.2" />
+    <Reference Include="DevExpress.Xpo.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraBars.v16.2" />
     <Reference Include="DevExpress.Sparkline.v16.2.Core" />
     <Reference Include="DevExpress.XtraEditors.v16.2" />
+    <Reference Include="DevExpress.XtraGrid.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -103,6 +106,11 @@
       <Project>{168ddf2c-f533-465f-ab0d-ace08e1338f5}</Project>
       <Name>Lpnt.QuanLy</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="mHeThong\" />
+    <Folder Include="mHoTro\" />
+    <Folder Include="mNghiepVu\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
